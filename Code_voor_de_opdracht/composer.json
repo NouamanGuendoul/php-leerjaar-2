@@ -1,0 +1,9 @@
+{
+    "name": "media/code_voor_de_opdracht",
+    "autoload": {
+        "psr-4": {
+            "loginOpdracht\\": "src/"
+        }
+    },
+    "require": {}
+}
